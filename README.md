@@ -4,6 +4,6 @@
 
 Группа: М8О-101БВ-26
 
-hello
+good morning
 
 bye
