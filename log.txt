@@ -1,0 +1,44 @@
+commit f0989dd7058dd9f64dee6b5bff53f74309d8e89c
+Merge: df131d1 bcf947c
+Author: Alyona <alyonas1056@icloud.com>
+Date:   Sat Oct 3 13:13:06 2026 +0300
+
+    merge feature-b inro main
+
+commit df131d1662a99e232b82e2064adb9364d9611905
+Author: Alyona <alyonas1056@icloud.com>
+Date:   Sat Oct 3 13:05:55 2026 +0300
+
+    change for merge conflict main
+
+commit bcf947cd3ec5d104a81817af5254b890c8d454f2
+Author: Alyona <alyonas1056@icloud.com>
+Date:   Sat Oct 3 13:05:05 2026 +0300
+
+    change for merge conflict
+
+commit 2abd890d5eb61a930cbc1deb1c4661a1fa1f0b86
+Author: Alyona <alyonas1056@icloud.com>
+Date:   Sat Oct 3 04:05:35 2026 +0300
+
+    feature-b: third line
+    
+                           feature-b: third line
+
+commit 64a841761825667bff36604a4d3746862897426c
+Author: Alyona <alyonas1056@icloud.com>
+Date:   Sat Oct 3 03:59:10 2026 +0300
+
+    feature-a: fourth line
+
+commit bcbf12b3fc0084a4a21188aec1167432363d4477
+Author: Alyona <alyonas1056@icloud.com>
+Date:   Sat Oct 3 03:55:03 2026 +0300
+
+    feature-a: third line
+
+commit 1ac008c4758da80baafae0a6fc996317ddbbe2d7
+Author: Alyona <alyonas1056@icloud.com>
+Date:   Sat Oct 3 03:50:00 2026 +0300
+
+    Initial commit
